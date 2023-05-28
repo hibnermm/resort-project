@@ -1,0 +1,18 @@
+body{
+  background-color: lightblue;
+  size: 12px;
+}
+
+button{
+  size: 15px;
+  color: white;
+  background-color: blue;
+}
+
+div{
+  margin-bottom: 10px;
+}
+
+h1{
+  text-align: center;
+}
