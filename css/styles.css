@@ -1,12 +1,14 @@
 body{
   background-color: lightblue;
   size: 12px;
+  font-family: 'Poppins', sans-serif;
 }
 
 button{
   size: 15px;
   color: white;
   background-color: blue;
+  font-family: 'Poppins', sans-serif;
 }
 
 div{
