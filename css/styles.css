@@ -11,8 +11,15 @@ button{
 
 div{
   margin-bottom: 10px;
+  border-bottom: solid blue 5px; 
 }
 
 h1{
   text-align: center;
+}
+
+
+img{
+  width: 90%;
+  height: auto;
 }
